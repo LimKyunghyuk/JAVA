@@ -2,7 +2,7 @@
 <properties>
     <comment>This is a comment</comment>
     <entry key="propA">A</entry>
-    <entry key="propB">B</entry>
+    <entry key="propB">가나다</entry>
     <entry key="propC">C</entry>
     <entry key="propD">D</entry>
     <entry key="propE">E</entry>
